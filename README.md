@@ -16,3 +16,26 @@ Here are some ideas to get you started:
 ### 📫 How to reach me: ...
 - **Email:** deshmukhswami510@gmail.com
 - **GitHub:** [deshmukhswami510-tech](https://github.com/deshmukhswami510-tech)
+# Hi there, I'm Swami Deshmukh 👋
+
+MCA Candidate at MIT-WPU | BCA Graduate | Aspiring Software Developer & Cybersecurity Enthusiast
+
+---
+
+### 🚀 About Me
+- 🎓 Currently pursuing **Master of Computer Applications (MCA)** at **MIT World Peace University (MIT-WPU)**.
+- 💻 Background in **BCA** with a focus on core software development, data structures, and database management.
+- 🛡️ Passionate about **Cybersecurity**, network defense, and full-stack development.
+- 🌱 Continuously expanding my problem-solving skills with **Java**, **SQL**, and web technologies.
+
+---
+
+### 🛠️ Tech Stack & Skills
+- **Languages:** Java, SQL, C++, HTML5, CSS3, JavaScript
+- **Databases & Tools:** MySQL, Git, GitHub, VS Code, VirtualBox, Linux
+
+---
+
+### 📫 Connect With Me
+- **Email:** deshmukhswami510@gmail.com
+- **GitHub:** [deshmukhswami510-tech](https://github.com/deshmukhswami510-tech)
